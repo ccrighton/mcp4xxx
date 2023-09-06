@@ -1,0 +1,14 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: mcp4xxx
+Upstream-Contact: Charles Crighton <rockwren@crighton.nz>
+Source: https://github.com/ccrighton/mcp4xxx
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
+
+Files: .idea/*
+Copyright: $YEAR $NAME <$CONTACT>
+License: MIT
