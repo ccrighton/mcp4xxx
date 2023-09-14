@@ -1,5 +1,8 @@
 # SPDX-FileCopyrightText: 2023 Charles Crighton <rockwren@crighton.nz>
 #
+# Ported from https://github.com/jmalloc/arduino-mcp4xxx:
+# SPDX-FileCopyrightText: 2012 James Harris <contact@jamesharris.id.au>
+#
 # SPDX-License-Identifier: MIT
 """
  * Controls Microchip's MCP4XXX range of digital potentiometers.
